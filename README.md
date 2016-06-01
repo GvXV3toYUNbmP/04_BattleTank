@@ -3,7 +3,7 @@ An open world head to head player vs AI tank game with terrain and an advanced c
 
 These files are my own work while following the tutorial series. You're welcome to download, fork or do whatever else legal with all the files!
 
-adding more... hahha
+adding more... hahha what this is local 
 
 ...
 ## Lecture list
